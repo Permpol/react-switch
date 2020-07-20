@@ -85,4 +85,12 @@
   "dependencies": {
     "prop-types": "^15.6.2"
   }
+  
+  {
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
+}
+
+  
 }
